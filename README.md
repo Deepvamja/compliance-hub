@@ -255,21 +255,5 @@ npm run build
 vercel deploy --prod
 ```
 
----
 
-## 📊 Project Metrics
-
-| Metric | Value |
-|--------|:-----:|
-| 🗄️ Database Tables | **6** |
-| 🔒 RLS Policies | **6** |
-| 🏛️ US Jurisdictions | **3 (CA · TX · NY)** |
-| 📋 Pre-loaded Requirements | **25+** |
-| ⚡ Auto-Generated Tasks/Employee | **6–10** |
-| 📝 Audit Action Types | **7** |
-| 📊 Dashboard KPIs | **6** |
-| 🧩 UI Components | **40+** |
-| 🛤️ Application Routes | **7** |
-| 📤 CSV Export Columns | **9** |
-| 📜 Activity Log Capacity | **200 entries** |
 
